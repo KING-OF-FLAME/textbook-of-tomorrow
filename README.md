@@ -78,7 +78,31 @@ Side panel displays result instantly
 ---
 
 ## 🎥 Demo
-<p align="center"> <i>Highlight → Explain → Learn</i> </p> <!-- TOP BIG BOX --> <p align="center"> <img src="1.gif" alt="Demo 1" width="90%"> </p> <!-- BOTTOM TWO BOXES --> <p align="center"> <img src="2.gif" alt="Demo 2" width="44%"> &nbsp;&nbsp; <img src="3.gif" alt="Demo 3" width="44%"> </p>
+<table align="center" width="100%">
+  <!-- TOP ROW: BIG GIF -->
+  <tr>
+    <td align="center" colspan="2">
+      <img src="1.gif" alt="Main Demo" width="100%">
+      <br>
+      <i>Main Flow Demo</i>
+    </td>
+  </tr>
+
+  <!-- SECOND ROW: TWO GIFS SIDE BY SIDE -->
+  <tr>
+    <td align="center" width="50%">
+      <img src="2.gif" alt="Feature One" width="100%">
+      <br>
+      <i>Feature One</i>
+    </td>
+    <td align="center" width="50%">
+      <img src="3.gif" alt="Feature Two" width="100%">
+      <br>
+      <i>Feature Two</i>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🗂 Project Structure
