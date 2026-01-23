@@ -1,6 +1,6 @@
 # 📘 Textbook of Tomorrow
 
-### *Turn static textbooks & LMS content into interactive learning — instantly.*
+### *Turn static textbooks & LMS content into interactive learning instantly.*
 
 <p align="center">
   <img src="extension/icons/icon128.png" alt="Textbook of Tomorrow Logo" width="120">
