@@ -77,16 +77,8 @@ Side panel displays result instantly
 
 ---
 
-## 🎥 Demo (GIF coming soon)
-
-<p align="center">
-  <img src="demo.gif" alt="Textbook of Tomorrow Demo" width="100%">
-  <br>
-  <i>Highlight → Explain → Learn</i>
-</p>
-
-> Replace `demo.gif` with your recorded demo GIF (keep the file at repo root).
-
+## 🎥 Demo
+<p align="center"> <i>Highlight → Explain → Learn</i> </p> <!-- TOP BIG BOX --> <p align="center"> <img src="1.gif" alt="Demo 1" width="90%"> </p> <!-- BOTTOM TWO BOXES --> <p align="center"> <img src="2.gif" alt="Demo 2" width="44%"> &nbsp;&nbsp; <img src="3.gif" alt="Demo 3" width="44%"> </p>
 ---
 
 ## 🗂 Project Structure
