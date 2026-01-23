@@ -1,9 +1,5 @@
-<p align="center">
-  # 📘 Textbook of Tomorrow
-  <br>
-  <i>AI-powered learning, right where students read.</i>
-</p>
-# 📘 Textbook of Tomorrow
+
+#  📘 Textbook of Tomorrow
 
 ### *Turn static textbooks & LMS content into interactive learning instantly.*
 
