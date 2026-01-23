@@ -275,10 +275,25 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Yash Raj**
-GitHub: [KING-OF-FLAME](https://github.com/KING-OF-FLAME)
-Instagram: [@yash.developer](https://instagram.com/yash.developer)
-Linkedin: [@yash-developer](https://www.linkedin.com/in/yash-developer/)
+
+<p align="center">
+  <b>Yash Raj</b><br>
+  <i>Open-Source Developer</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KING-OF-FLAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="24" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yash-developer/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/yash.developer" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="24" />
+  </a>
+</p>
 
 ---
 
