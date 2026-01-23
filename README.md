@@ -275,25 +275,23 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-
 <p align="center">
   <b>Yash Raj</b><br>
   <i>Open-Source Developer</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/KING-OF-FLAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="24" />
+  <a href="https://github.com/KING-OF-FLAME">
+    <img src="https://img.shields.io/badge/GitHub-KING--OF--FLAME-black?style=for-the-badge&logo=github">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yash-developer/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" />
+  <a href="https://www.linkedin.com/in/yash-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Raj-blue?style=for-the-badge&logo=linkedin">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/yash.developer" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="24" />
+  <a href="https://instagram.com/yash.developer">
+    <img src="https://img.shields.io/badge/Instagram-@yash.developer-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
+
 
 ---
 
