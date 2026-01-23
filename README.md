@@ -17,7 +17,7 @@
 
 ---
 
-## 🌟 About the Project
+## About the Project ❤️
 
 **Textbook of Tomorrow** is a lightweight AI-powered Chrome extension that transforms **static digital textbooks and LMS readings** into **interactive learning experiences**.
 
@@ -29,7 +29,7 @@ This project is intentionally built as a **simple, beginner-friendly MVP**, insp
 
 ---
 
-## 🎯 What Problem It Solves
+## What Problem It Solves
 
 * Static PDFs and LMS readings are **passive**
 * Students often struggle to:
@@ -42,26 +42,26 @@ This project is intentionally built as a **simple, beginner-friendly MVP**, insp
 
 ---
 
-## ✨ Features (MVP)
+## Features (MVP)
 
-✅ **Explain Selected Text**
+1) **Explain Selected Text**
 Student-friendly explanation in simple language
 
-✅ **Summarize Selected Text**
+2) **Summarize Selected Text**
 Clear bullet-point summary (**max 5 bullets**)
 
-✅ **Generate 3 Quiz Questions**
+3) **Generate 3 Quiz Questions**
 Multiple-choice questions (**3 MCQs**) with answers
 
-🚫 No chat history
-🚫 No analytics
-🚫 No personalization
+a) No chat history
+b) No analytics
+c) No personalization
 
 > **One highlight → one AI response**
 
 ---
 
-## 🧠 How It Works (High Level)
+## How It Works (High Level)
 
 ```
 User highlights text
@@ -77,7 +77,7 @@ Side panel displays result instantly
 
 ---
 
-## 🎥 Demo
+## Demo
 <table align="center" width="50%">
   <!-- TOP ROW: BIG GIF -->
   <tr>
@@ -134,9 +134,9 @@ textbook-of-tomorrow/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 🔧 Prerequisites
+### Prerequisites
 
 * Python 3.9+
 * Google Chrome
@@ -145,21 +145,21 @@ textbook-of-tomorrow/
 
 ---
 
-## ⚙️ Backend Setup (FastAPI)
+## Backend Setup (FastAPI)
 
-### 1️⃣ Navigate to backend
+### 1️ Navigate to backend
 
 ```bash
 cd backend
 ```
 
-### 2️⃣ Install dependencies
+### 2️ Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Create `.env`
+### 3️ Create `.env`
 
 Create a file at `backend/.env`:
 
@@ -170,13 +170,13 @@ OPENAI_MODEL=gpt-4.1-mini
 
 > ⚠️ Never commit `.env`. It is ignored via `.gitignore`.
 
-### 4️⃣ Run backend
+### 4️ Run backend
 
 ```bash
 uvicorn app:app --reload --port 8000
 ```
 
-### 5️⃣ Verify
+### 5️ Verify
 
 Open in browser:
 
@@ -192,17 +192,17 @@ Expected:
 
 ---
 
-## 🧩 Chrome Extension Setup
+## Chrome Extension Setup
 
-### 1️⃣ Open Chrome Extensions
+### 1️ Open Chrome Extensions
 
 ```
 chrome://extensions
 ```
 
-### 2️⃣ Enable **Developer Mode**
+### 2️ Enable **Developer Mode**
 
-### 3️⃣ Click **Load unpacked**
+### 3️ Click **Load unpacked**
 
 Select this folder:
 
@@ -210,20 +210,20 @@ Select this folder:
 textbook-of-tomorrow/extension
 ```
 
-### 4️⃣ Pin the extension (recommended)
+### 4️ Pin the extension (recommended)
 
 ---
 
-## 🖱 How to Use
+## How to Use
 
 1. Open any **normal webpage** (or your LMS)
 2. Highlight a sentence/paragraph
 3. Click the extension icon to open the side panel
 4. Choose an action:
 
-   * ✨ Explain
-   * 🧾 Summarize
-   * 🧠 Quiz (3 MCQs)
+   * a) Explain
+   * b) Summarize
+   * c) Quiz (3 MCQs)
 
 AI output appears instantly in the side panel.
 
@@ -231,15 +231,15 @@ AI output appears instantly in the side panel.
 
 ## 🔒 Security & Privacy
 
-* 🔐 API keys stay in `backend/.env` (never pushed)
-* 🚫 No user tracking
-* 🚫 No analytics
-* 🚫 No saved chat history
-* ✅ One request → one response
+* API keys stay in `backend/.env` (never pushed)
+* No user tracking
+* No analytics
+* No saved chat history
+* One request → one response
 
 ---
 
-## 🧠 Model Choice
+## Model Choice
 
 Default model:
 
@@ -277,6 +277,8 @@ This project is licensed under the **MIT License**.
 
 **Yash Raj**
 GitHub: [KING-OF-FLAME](https://github.com/KING-OF-FLAME)
+Instagram: [@yash.developer](https://instagram.com/yash.developer)
+Linkedin: [@yash-developer](https://www.linkedin.com/in/yash-developer/)
 
 ---
 
