@@ -82,7 +82,7 @@ Side panel displays result instantly
   <!-- TOP ROW: BIG GIF -->
   <tr>
     <td align="center" colspan="2">
-      <img src="1.gif" alt="Main Demo" width="100%">
+      <img src="1.gif" alt="Main Demo" width="80%">
       <br>
       <i>Main Flow Demo</i>
     </td>
