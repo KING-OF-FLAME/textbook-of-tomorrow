@@ -84,7 +84,7 @@ Side panel displays result instantly
     <td align="center" colspan="2">
       <img src="1.gif" alt="Main Demo" width="80%">
       <br>
-      <i>Main Flow Demo</i>
+      <i>Select Clean Text</i>
     </td>
   </tr>
 
@@ -93,12 +93,12 @@ Side panel displays result instantly
     <td align="center" width="50%">
       <img src="2.gif" alt="Feature One" width="100%">
       <br>
-      <i>Feature One</i>
+      <i>Explain</i>
     </td>
     <td align="center" width="50%">
       <img src="3.gif" alt="Feature Two" width="100%">
       <br>
-      <i>Feature Two</i>
+      <i>Summarize or Create Quiz</i>
     </td>
   </tr>
 </table>
