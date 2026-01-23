@@ -78,7 +78,7 @@ Side panel displays result instantly
 ---
 
 ## 🎥 Demo
-<table align="center" width="100%">
+<table align="center" width="50%">
   <!-- TOP ROW: BIG GIF -->
   <tr>
     <td align="center" colspan="2">
