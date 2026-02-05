@@ -136,21 +136,17 @@ Color Palette:
 
 ## How It Works (High Level)
 
-```
-User highlights text
-        ↓
-Chrome Extension captures selection (content.js)
-        ↓
-Service worker processes request
-        ↓
-FastAPI backend sends optimized prompt to AI model
-        ↓
-AI returns clean, token-efficient text output
-        ↓
-Side panel displays result with smooth animations
-        ↓
-Session ends (no data retained - privacy & efficiency)
-```
+![Flow Diagram](./flow.svg)
+
+### Flow Summary
+1. User highlights text
+2. Chrome Extension captures selection (content.js)
+3. Service worker processes request
+4. FastAPI backend sends an optimized prompt to the AI model
+5. AI returns clean, token-efficient text output
+6. Side panel displays the result with smooth animations
+7. Session ends (no data retained — privacy & efficiency)
+
 
 ### Architecture Highlights
 
