@@ -473,7 +473,7 @@ See [LICENSE](LICENSE) file for details.
 
 <p align="center">
   <b>Yash Raj</b><br>
-  <i>Open-Source Developer | Sustainability Advocate | Education Technology Enthusiast</i>
+  <i>Open-Source Developer| AI Systems Builder | Designing Multi-Agent AI, APIs & Automation | Applied AI</i>
 </p>
 
 <p align="center">
