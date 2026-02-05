@@ -250,7 +250,7 @@ Create a file at `backend/.env`:
 
 ```env
 OPENAI_API_KEY=your_api_key_here
-OPENAI_MODEL=gpt-4o-mini
+OPENAI_MODEL=gpt-4.1-mini
 ```
 
 > **Security Note**: Never commit `.env` to version control. It is automatically ignored via `.gitignore`.
@@ -280,7 +280,7 @@ Expected response:
 ```json
 {
   "ok": true,
-  "model": "gpt-4o-mini"
+  "model": "gpt-4.1-mini"
 }
 ```
 
@@ -357,10 +357,10 @@ Click the puzzle icon in Chrome toolbar and pin "Textbook of Tomorrow"
 ### Default Configuration
 
 ```text
-Model: gpt-4o-mini
+Model: gpt-4.1-mini
 ```
 
-### Why gpt-4o-mini?
+### Why gpt-4.1-mini?
 
 1. **Quality**: Strong performance for educational explanations and quiz generation  
 2. **Efficiency**: Fast response times for smooth user experience  
