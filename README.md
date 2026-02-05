@@ -136,7 +136,7 @@ Color Palette:
 
 ## How It Works (High Level)
 
-![Flow Diagram](./flow.svg)
+![Flow Diagram](./flowt.png)
 
 ### Flow Summary
 1. User highlights text
